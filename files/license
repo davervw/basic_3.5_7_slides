@@ -9,7 +9,7 @@ Change the content, and you're good to go.
 Slides for C64 
 
 Presentation Slides DATA Content
-Copyright (c) 2022 David R. Van Wagner
+Copyright (c) 2026 David R. Van Wagner
 davevw.com
 ALL RIGHTS RESERVED
 Content of slides DATA may not be duplicated in whole or in part
@@ -18,7 +18,8 @@ without expressed permission by copyright holder
 ==================================================================================
 
 Slides program (engine) for Commodore 64
-Copyright (c) 2022 David R. Van Wagner
+RLEPlayer (runtime) for Commodore 64, 128, TED (16, 116, Plus/4)
+Copyright (c) 2026 David R. Van Wagner
 davevw.com
 
 MIT License
