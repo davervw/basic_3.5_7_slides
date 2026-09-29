@@ -3,8 +3,7 @@
 Contents
 
 * Session #1 - (A) Overview, Topics (B) Getting Started, Editor, Disk Operations, Types[Classes] of Programs
-
-
+* Session #2 - To be determined
 
 Links:
 
@@ -13,3 +12,4 @@ Links:
 * [64'er BASIC 3.5 for Commodore 64](https://csdb.dk/release/?id=189017) PRG
 * [Commodore 128 Persional Computer Programmer's Reference Guide](https://archive.org/details/C128_Programmers_Reference_Guide_1986_Bamtam_Books)
 * [Programmer's Reference Guide for the Commodore Plus/4](https://archive.org/details/Programmers_Reference_Guide_for_the_Commodore_Plus_4_1986_Scott_Foresman_Co)
+* [Commodore plus/4 User's Manual](https://archive.org/details/plus-4-users-manual/mode/2up)
