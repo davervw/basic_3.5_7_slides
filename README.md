@@ -3,8 +3,8 @@
 Contents
 
 * Session #1 - (A) Overview, Topics (B) Getting Started, Editor, Disk Operations, Types[Classes] of Programs
-* Session #2 - To be determined
-
+* Session #2 - (A) Program Control (B) Sharing including reviewing [sound program](https://github.com/davervw/plus4_making_some_music)
+  
 Links:
 
 * [Slides (D81 3.5" 800 KB) drive image](https://github.com/davervw/basic_3.5_7_slides/raw/refs/heads/main/basic357.d81)
