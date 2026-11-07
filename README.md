@@ -4,6 +4,7 @@ Contents
 
 * Session #1 - (A) Overview, Topics (B) Getting Started, Editor, Disk Operations, Types[Classes] of Programs
 * Session #2 - Misc., LIST out/in, Program Control, Sharing including reviewing [sound program](https://github.com/davervw/plus4_making_some_music)
+* Session #3 - Keyboard Input and [examples](https://github.com/davervw/basic_3.5_7_slides/raw/refs/heads/main/examples/example3.d64)
   
 Links:
 
@@ -13,3 +14,4 @@ Links:
 * [Commodore 128 Personal Computer Programmer's Reference Guide](https://archive.org/details/C128_Programmers_Reference_Guide_1986_Bamtam_Books)
 * [Programmer's Reference Guide for the Commodore Plus/4](https://archive.org/details/Programmers_Reference_Guide_for_the_Commodore_Plus_4_1986_Scott_Foresman_Co)
 * [Commodore plus/4 User's Manual](https://archive.org/details/plus-4-users-manual/mode/2up)
+* [Project: c-keymaps including keyboard references](https://github.com/davervw/c-keymaps)
